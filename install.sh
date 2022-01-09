@@ -1,4 +1,4 @@
 #!/bin/bash
-wget -O pj.py https://raw.githubusercontent.com/NearlyHeadlessJack/NEU-teaching-judge/main/pj.py
-wget -O start.sh https://raw.githubusercontent.com/NearlyHeadlessJack/NEU-teaching-judge/main/start.sh
+curl -fsSL https://gitee.com/NHJ2001/NEU-teaching-judge/raw/main/pj.py
+curl -fsSL https://gitee.com/NHJ2001/NEU-teaching-judge/raw/main/pj.pystart.sh
 ./start.sh
