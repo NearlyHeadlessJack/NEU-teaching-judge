@@ -1,4 +1,6 @@
 # NEU-teaching-judge
+<img src="https://img.shields.io/badge/License-MIT-green" alt=""> 
+<img src="https://img.shields.io/badge/platform-macOS%7CLinux%20-blue" alt=""> 
 这是用来应付每学期末教务处要求的“量化评教”的半自动脚本。
 
 基于微软开源项目[Playwright](https://github.com/microsoft/playwright)，因此本脚本所需要的依赖有：Python3.6+ | Playwright( 1.17.1 )
